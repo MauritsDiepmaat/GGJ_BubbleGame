@@ -43,6 +43,8 @@ Material:
     - _BubbleSpeed: 0.1
     - _DivideColor: 1
     - _FresnelPower: 0.6
+    - _MovementIntensity: 1
+    - _MovementSpeed: 1
     - _NoiseSubtraction: 0.6
     - _QueueControl: 0
     - _QueueOffset: 0
